@@ -22,7 +22,7 @@ Posts stored in database, and users can get or create posts by using REST API.
 - JWT Authentication\Authorization.
 - Add caching to the blog routes.
 - Security best practices.
-- Try split app into two services: auth and blogs using microservices best practices.
+- Split app into microservices using best practices.
 - Pizza and coffee.
 
 For any questions even silly ones write to our HR Anna
