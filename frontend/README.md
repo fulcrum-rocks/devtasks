@@ -7,15 +7,15 @@ The app should have at least one screen with chart. The chart should display rec
 ##### Requirements:
 
 1. Please use react hooks.
-2. Please use TypeScript.
-3. Create a public repository on GitHub and push your project there.
-4. Write a `README` file and describe how to run your project.
+2. Create a public repository on GitHub and push your project there.
+3. Write a `README` file and describe how to run your project.
 
 Additional:
 
 - You're free to choose the way to manage your app state
 - You're free to use any chart library you want
 - You're free to use any styling and UI Kit you want.
+- :star: (Optional) - Use TypeScript
 - :star: (Optional) - Make your app responsive for different screen sizes
 - :star: (Optional) - Cover your code with unit tests
 
