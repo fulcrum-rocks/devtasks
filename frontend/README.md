@@ -7,7 +7,7 @@ The app should have at least one screen with chart. The chart should display rec
 ##### Requirements:
 
 1. Please use react hooks.
-2. Please use [redux](https://redux.js.org/) to manage your application state.
+2. Please use TypeScript.
 3. Create a public repository on GitHub and push your project there.
 4. Write a `README` file and describe how to run your project.
 
